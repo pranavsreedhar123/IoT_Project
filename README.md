@@ -1,6 +1,6 @@
 # Welcome to our Internet of Things Project.
 
-## **Check our entire documentation:** [Click Here](https://docs.google.com/document/d/1kkOZVzUCf6sTrKD_HXc1Z07RiwmRtZ049r1gkqCgQHM/edit#)
+## **Check out our entire documentation:** [Click Here](https://docs.google.com/document/d/1kkOZVzUCf6sTrKD_HXc1Z07RiwmRtZ049r1gkqCgQHM/edit#)
 
 ## What did we do?
 1. We received weather data from an open-source API, sent the data to the Raspberry Pi via MQTT, stored it on an SQL database, and displayed the data on Grafana.
