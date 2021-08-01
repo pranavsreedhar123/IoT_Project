@@ -43,7 +43,7 @@ def execute_query(connection, query):
 
 
 # Enter your API key here
-api_key = "08edab32781a25c2b26894bf1673bbb5"
+api_key = "ENTER_API_KEY" #https://openweathermap.org/api
 
 # base_url variable to store url
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
