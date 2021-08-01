@@ -1,4 +1,4 @@
-# Welcome to our IoT_Project.
+# Welcome to our Internet of Things Project.
 
 ## **Check our entire documentation:** [Click Here](https://docs.google.com/document/d/1kkOZVzUCf6sTrKD_HXc1Z07RiwmRtZ049r1gkqCgQHM/edit#)
 
