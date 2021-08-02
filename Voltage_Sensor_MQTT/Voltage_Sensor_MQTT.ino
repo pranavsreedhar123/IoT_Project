@@ -3,9 +3,9 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "Livebox-F7A6";
-const char* password = "6D5CF624D45C4DEAD5514FA436";
-const char* mqtt_server = "192.168.1.10";
+const char* ssid = "WIFI";
+const char* password = "WIFI PASSWORD";
+const char* mqtt_server = "IP ADDRESS OF MQTT BROKER";
 int BAT= A0;              //Analog channel A0 as used to measure battery voltage
 float RatioFactor=2.93;  //Resistors Ratio Factor
 
