@@ -4,7 +4,7 @@ import time # for time function
 import paho.mqtt.client as mqtt
 import pymysql.cursors 
 
-broker = "192.168.1.10"
+broker = "IP ADDRESS OF RASPBERRY PI"
 channel = 21
 
 
